@@ -1,6 +1,6 @@
 <div align="center">
 
-# "Write Code" Loading Animation with Cubic Bezier | Crimson
+# SVG Loader with Anime.js | Crimson
 
 <img src="admin/base.png">
 
